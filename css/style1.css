@@ -1,0 +1,12 @@
+@import "reset.css";
+@import "header.css";
+@import "slider.css";
+@import "cards.css";
+@import "aside.css";
+@import "footer.css";
+
+
+.carousel-inner img{
+    display: flex;
+    width: 100%;
+}
